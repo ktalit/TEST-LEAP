@@ -15,3 +15,15 @@ header_pages:
   - _pages/projects.md
   - _pages/publications.md
   - _pages/news.md
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
