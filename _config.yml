@@ -1,0 +1,8 @@
+title: TEST LEAP
+description: ""
+theme: minima
+url: "https://ktalit.github.io"
+baseurl: "/TEST-LEAP"   # must match the repo name exactly (case included)
+show_excerpts: true
+plugins:
+  - jekyll-seo-tag
