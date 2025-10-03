@@ -13,6 +13,7 @@ Below are our latest posts.
   <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     — {{ post.date | date: "%b %d, %Y" }}
+    <code>{{ post.path }}</code>   <!-- debug: shows source file -->
   </li>
 {% endfor %}
 </ul>
