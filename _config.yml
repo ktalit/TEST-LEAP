@@ -27,3 +27,6 @@ defaults:
       type: pages
     values:
       layout: page
+
+timezone: America/Los_Angeles
+future: true
