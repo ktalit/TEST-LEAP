@@ -20,3 +20,4 @@ Below are our latest posts.
 {% else %}
 <p>No posts yet.</p>
 {% endif %}
+
