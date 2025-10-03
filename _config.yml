@@ -30,3 +30,9 @@ defaults:
 
 timezone: America/Los_Angeles
 future: true
+
+minima:
+  social_links:
+    - { platform: twitter,  user_url: "https://x.com/YOUR_HANDLE" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/YOUR_HANDLE/" }
+
